@@ -1,0 +1,16 @@
+{"time":"2025-03-25T18:48:50.435113232+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_rgb/wandb/run-20250325_184850-5qvg23vf/logs/debug-core.log"}
+{"time":"2025-03-25T18:48:50.537294516+08:00","level":"INFO","msg":"created new stream","id":"5qvg23vf"}
+{"time":"2025-03-25T18:48:50.537316881+08:00","level":"INFO","msg":"stream: started","id":"5qvg23vf"}
+{"time":"2025-03-25T18:48:50.53732485+08:00","level":"INFO","msg":"handler: started","stream_id":"5qvg23vf"}
+{"time":"2025-03-25T18:48:50.53732592+08:00","level":"INFO","msg":"sender: started","stream_id":"5qvg23vf"}
+{"time":"2025-03-25T18:48:50.537327415+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"5qvg23vf"}
+{"time":"2025-03-25T18:48:51.173555698+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T18:57:09.570024767+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T18:57:09.570314796+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T18:57:10.570894655+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.339726477},{"desc":"uploading wandb-summary.json","runtime_seconds":0.339718436},{"desc":"uploading config.yaml","runtime_seconds":0.051384707}],"total_operations":3}}
+{"time":"2025-03-25T18:57:11.29248976+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T18:57:11.872480662+08:00","level":"INFO","msg":"stream: closing","id":"5qvg23vf"}
+{"time":"2025-03-25T18:57:11.872487193+08:00","level":"INFO","msg":"handler: closed","stream_id":"5qvg23vf"}
+{"time":"2025-03-25T18:57:11.872490967+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"5qvg23vf"}
+{"time":"2025-03-25T18:57:11.872496316+08:00","level":"INFO","msg":"sender: closed","stream_id":"5qvg23vf"}
+{"time":"2025-03-25T18:57:11.872520999+08:00","level":"INFO","msg":"stream: closed","id":"5qvg23vf"}

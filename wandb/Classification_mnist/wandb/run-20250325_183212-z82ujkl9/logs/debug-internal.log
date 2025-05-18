@@ -1,0 +1,16 @@
+{"time":"2025-03-25T18:32:12.635069073+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_mnist/wandb/run-20250325_183212-z82ujkl9/logs/debug-core.log"}
+{"time":"2025-03-25T18:32:12.737300766+08:00","level":"INFO","msg":"created new stream","id":"z82ujkl9"}
+{"time":"2025-03-25T18:32:12.737323934+08:00","level":"INFO","msg":"stream: started","id":"z82ujkl9"}
+{"time":"2025-03-25T18:32:12.73733312+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"z82ujkl9"}
+{"time":"2025-03-25T18:32:12.737343577+08:00","level":"INFO","msg":"sender: started","stream_id":"z82ujkl9"}
+{"time":"2025-03-25T18:32:12.737343174+08:00","level":"INFO","msg":"handler: started","stream_id":"z82ujkl9"}
+{"time":"2025-03-25T18:32:13.3768438+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T18:52:15.625860121+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T18:52:15.626164421+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T18:52:16.62671412+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.355918949,"progress":"252B/252B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.355909778,"progress":"296B/296B"},{"desc":"uploading config.yaml","runtime_seconds":0.04615989,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-25T18:52:17.399219333+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T18:52:18.009990784+08:00","level":"INFO","msg":"stream: closing","id":"z82ujkl9"}
+{"time":"2025-03-25T18:52:18.00999964+08:00","level":"INFO","msg":"handler: closed","stream_id":"z82ujkl9"}
+{"time":"2025-03-25T18:52:18.0100035+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z82ujkl9"}
+{"time":"2025-03-25T18:52:18.010008785+08:00","level":"INFO","msg":"sender: closed","stream_id":"z82ujkl9"}
+{"time":"2025-03-25T18:52:18.010052479+08:00","level":"INFO","msg":"stream: closed","id":"z82ujkl9"}

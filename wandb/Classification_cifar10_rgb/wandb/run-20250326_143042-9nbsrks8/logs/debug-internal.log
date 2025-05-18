@@ -1,0 +1,17 @@
+{"time":"2025-03-26T14:30:42.599605574+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_rgb/wandb/run-20250326_143042-9nbsrks8/logs/debug-core.log"}
+{"time":"2025-03-26T14:30:42.702452273+08:00","level":"INFO","msg":"created new stream","id":"9nbsrks8"}
+{"time":"2025-03-26T14:30:42.702491075+08:00","level":"INFO","msg":"stream: started","id":"9nbsrks8"}
+{"time":"2025-03-26T14:30:42.702594009+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"9nbsrks8"}
+{"time":"2025-03-26T14:30:42.70260479+08:00","level":"INFO","msg":"sender: started","stream_id":"9nbsrks8"}
+{"time":"2025-03-26T14:30:42.702693429+08:00","level":"INFO","msg":"handler: started","stream_id":"9nbsrks8"}
+{"time":"2025-03-26T14:30:43.419053669+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-26T14:54:29.45074577+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/9nbsrks8/file_stream\": EOF"}
+{"time":"2025-03-26T15:21:49.280923941+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-26T15:21:49.281266663+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-26T15:21:50.283175125+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.365023287,"progress":"237B/237B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.364981354,"progress":"293B/293B"},{"desc":"uploading config.yaml","runtime_seconds":0.043510592,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-26T15:21:50.780731677+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-26T15:21:51.377690167+08:00","level":"INFO","msg":"stream: closing","id":"9nbsrks8"}
+{"time":"2025-03-26T15:21:51.377715794+08:00","level":"INFO","msg":"handler: closed","stream_id":"9nbsrks8"}
+{"time":"2025-03-26T15:21:51.377726735+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"9nbsrks8"}
+{"time":"2025-03-26T15:21:51.377818213+08:00","level":"INFO","msg":"sender: closed","stream_id":"9nbsrks8"}
+{"time":"2025-03-26T15:21:51.377865811+08:00","level":"INFO","msg":"stream: closed","id":"9nbsrks8"}

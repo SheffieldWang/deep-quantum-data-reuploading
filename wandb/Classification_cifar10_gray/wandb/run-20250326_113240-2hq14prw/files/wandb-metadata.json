@@ -1,0 +1,58 @@
+{
+  "os": "Linux-6.8.0-52-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-03-26T03:32:40.021426Z",
+  "args": [
+    "--n_qubits",
+    "8",
+    "--n_layers",
+    "6",
+    "--max_layers",
+    "6",
+    "--n_samples",
+    "600",
+    "--n_test",
+    "1000",
+    "--n_reps",
+    "4",
+    "--n_epochs",
+    "500",
+    "--n_repeats",
+    "10",
+    "--data_type",
+    "cifar10_gray"
+  ],
+  "program": "/home/qcql/Code/data_reuploading/real_world/classification.py",
+  "codePath": "classification.py",
+  "email": "wangxiaojin12138@gmail.com",
+  "root": "../wandb/Classification_cifar10_gray",
+  "host": "qcql-Z790-GAMING-X-AX",
+  "executable": "/home/qcql/miniconda3/envs/quantum/bin/python",
+  "codePathLocal": "classification.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "4030220222464",
+      "used": "547714080768"
+    }
+  },
+  "memory": {
+    "total": "67246166016"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

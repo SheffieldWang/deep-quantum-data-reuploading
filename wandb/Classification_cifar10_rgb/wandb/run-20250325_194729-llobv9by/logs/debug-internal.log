@@ -1,0 +1,17 @@
+{"time":"2025-03-25T19:47:29.402139436+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_rgb/wandb/run-20250325_194729-llobv9by/logs/debug-core.log"}
+{"time":"2025-03-25T19:47:29.505236151+08:00","level":"INFO","msg":"created new stream","id":"llobv9by"}
+{"time":"2025-03-25T19:47:29.50525412+08:00","level":"INFO","msg":"stream: started","id":"llobv9by"}
+{"time":"2025-03-25T19:47:29.505295906+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"llobv9by"}
+{"time":"2025-03-25T19:47:29.5053394+08:00","level":"INFO","msg":"sender: started","stream_id":"llobv9by"}
+{"time":"2025-03-25T19:47:29.505346941+08:00","level":"INFO","msg":"handler: started","stream_id":"llobv9by"}
+{"time":"2025-03-25T19:47:30.131262023+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T20:09:17.2680282+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/llobv9by/file_stream\": unexpected EOF"}
+{"time":"2025-03-25T21:10:08.17008039+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T21:10:08.170385603+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T21:10:09.172454876+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.178311413},{"desc":"uploading wandb-summary.json","runtime_seconds":0.178269146}],"total_operations":2}}
+{"time":"2025-03-25T21:10:10.270839275+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T21:10:10.889812715+08:00","level":"INFO","msg":"stream: closing","id":"llobv9by"}
+{"time":"2025-03-25T21:10:10.889836597+08:00","level":"INFO","msg":"handler: closed","stream_id":"llobv9by"}
+{"time":"2025-03-25T21:10:10.88984998+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"llobv9by"}
+{"time":"2025-03-25T21:10:10.889931505+08:00","level":"INFO","msg":"sender: closed","stream_id":"llobv9by"}
+{"time":"2025-03-25T21:10:10.889980369+08:00","level":"INFO","msg":"stream: closed","id":"llobv9by"}

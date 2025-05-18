@@ -1,0 +1,2 @@
+Training epochs: 100%|██████████| 500/500 [57:45<00:00,  6.93s/it]  
+2025-03-25 19:47:25,125 - INFO - Training completed, final metrics: {'loss': 0.6215400344700065, 'accuracy': 1.0, 'pred_error': 0.42523320745860566}

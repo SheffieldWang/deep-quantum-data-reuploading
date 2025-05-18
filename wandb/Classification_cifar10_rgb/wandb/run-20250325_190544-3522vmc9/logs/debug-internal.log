@@ -1,0 +1,16 @@
+{"time":"2025-03-25T19:05:44.758909313+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_rgb/wandb/run-20250325_190544-3522vmc9/logs/debug-core.log"}
+{"time":"2025-03-25T19:05:44.866845966+08:00","level":"INFO","msg":"created new stream","id":"3522vmc9"}
+{"time":"2025-03-25T19:05:44.86686057+08:00","level":"INFO","msg":"stream: started","id":"3522vmc9"}
+{"time":"2025-03-25T19:05:44.866867494+08:00","level":"INFO","msg":"handler: started","stream_id":"3522vmc9"}
+{"time":"2025-03-25T19:05:44.866874908+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"3522vmc9"}
+{"time":"2025-03-25T19:05:44.866868934+08:00","level":"INFO","msg":"sender: started","stream_id":"3522vmc9"}
+{"time":"2025-03-25T19:05:45.473171369+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T19:14:22.592037095+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T19:14:22.592378197+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T19:14:23.592837835+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.323774737,"progress":"251B/251B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.323753587,"progress":"294B/294B"},{"desc":"uploading config.yaml","runtime_seconds":0.019436582,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-25T19:14:24.004051637+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T19:14:24.623958891+08:00","level":"INFO","msg":"stream: closing","id":"3522vmc9"}
+{"time":"2025-03-25T19:14:24.623969075+08:00","level":"INFO","msg":"handler: closed","stream_id":"3522vmc9"}
+{"time":"2025-03-25T19:14:24.623974541+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3522vmc9"}
+{"time":"2025-03-25T19:14:24.623980053+08:00","level":"INFO","msg":"sender: closed","stream_id":"3522vmc9"}
+{"time":"2025-03-25T19:14:24.624011126+08:00","level":"INFO","msg":"stream: closed","id":"3522vmc9"}

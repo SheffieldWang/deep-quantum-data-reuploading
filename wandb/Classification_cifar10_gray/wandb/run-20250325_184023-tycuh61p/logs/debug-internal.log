@@ -1,0 +1,16 @@
+{"time":"2025-03-25T18:40:23.675449434+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_gray/wandb/run-20250325_184023-tycuh61p/logs/debug-core.log"}
+{"time":"2025-03-25T18:40:23.777506751+08:00","level":"INFO","msg":"created new stream","id":"tycuh61p"}
+{"time":"2025-03-25T18:40:23.777523458+08:00","level":"INFO","msg":"stream: started","id":"tycuh61p"}
+{"time":"2025-03-25T18:40:23.777533739+08:00","level":"INFO","msg":"sender: started","stream_id":"tycuh61p"}
+{"time":"2025-03-25T18:40:23.777532097+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"tycuh61p"}
+{"time":"2025-03-25T18:40:23.777545119+08:00","level":"INFO","msg":"handler: started","stream_id":"tycuh61p"}
+{"time":"2025-03-25T18:40:24.3624866+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T19:00:18.675319586+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T19:00:18.675632179+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T19:00:19.676192088+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.360612649,"progress":"298B/298B"},{"desc":"uploading output.log","runtime_seconds":0.36060572,"progress":"251B/251B"},{"desc":"uploading config.yaml","runtime_seconds":0.042893767,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-25T19:00:20.415534558+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T19:00:20.98626442+08:00","level":"INFO","msg":"stream: closing","id":"tycuh61p"}
+{"time":"2025-03-25T19:00:20.986277635+08:00","level":"INFO","msg":"handler: closed","stream_id":"tycuh61p"}
+{"time":"2025-03-25T19:00:20.986287153+08:00","level":"INFO","msg":"sender: closed","stream_id":"tycuh61p"}
+{"time":"2025-03-25T19:00:20.98628403+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tycuh61p"}
+{"time":"2025-03-25T19:00:20.986328874+08:00","level":"INFO","msg":"stream: closed","id":"tycuh61p"}

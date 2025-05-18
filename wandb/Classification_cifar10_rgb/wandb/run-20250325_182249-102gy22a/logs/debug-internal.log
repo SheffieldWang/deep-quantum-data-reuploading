@@ -1,0 +1,16 @@
+{"time":"2025-03-25T18:22:49.109984516+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_rgb/wandb/run-20250325_182249-102gy22a/logs/debug-core.log"}
+{"time":"2025-03-25T18:22:49.211566583+08:00","level":"INFO","msg":"created new stream","id":"102gy22a"}
+{"time":"2025-03-25T18:22:49.211577902+08:00","level":"INFO","msg":"stream: started","id":"102gy22a"}
+{"time":"2025-03-25T18:22:49.211585255+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"102gy22a"}
+{"time":"2025-03-25T18:22:49.211589212+08:00","level":"INFO","msg":"sender: started","stream_id":"102gy22a"}
+{"time":"2025-03-25T18:22:49.211600534+08:00","level":"INFO","msg":"handler: started","stream_id":"102gy22a"}
+{"time":"2025-03-25T18:22:49.830843434+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T18:31:29.966319941+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T18:31:29.966732078+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T18:31:30.925772184+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.344604606,"progress":"251B/251B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.344592397,"progress":"284B/284B"},{"desc":"uploading config.yaml","runtime_seconds":0.049637847,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-25T18:31:31.279250697+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T18:31:31.899213838+08:00","level":"INFO","msg":"stream: closing","id":"102gy22a"}
+{"time":"2025-03-25T18:31:31.899220031+08:00","level":"INFO","msg":"handler: closed","stream_id":"102gy22a"}
+{"time":"2025-03-25T18:31:31.899223602+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"102gy22a"}
+{"time":"2025-03-25T18:31:31.899226634+08:00","level":"INFO","msg":"sender: closed","stream_id":"102gy22a"}
+{"time":"2025-03-25T18:31:31.899246081+08:00","level":"INFO","msg":"stream: closed","id":"102gy22a"}

@@ -1,0 +1,32 @@
+{"time":"2025-03-26T02:31:19.928234258+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"../wandb/Classification_cifar10_rgb/wandb/run-20250326_023119-mjpfptus/logs/debug-core.log"}
+{"time":"2025-03-26T02:31:20.031595567+08:00","level":"INFO","msg":"created new stream","id":"mjpfptus"}
+{"time":"2025-03-26T02:31:20.031642341+08:00","level":"INFO","msg":"stream: started","id":"mjpfptus"}
+{"time":"2025-03-26T02:31:20.031743854+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"mjpfptus"}
+{"time":"2025-03-26T02:31:20.031816169+08:00","level":"INFO","msg":"sender: started","stream_id":"mjpfptus"}
+{"time":"2025-03-26T02:31:20.031884201+08:00","level":"INFO","msg":"handler: started","stream_id":"mjpfptus"}
+{"time":"2025-03-26T02:31:20.868968515+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-26T03:16:57.317496275+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T03:17:21.582308167+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-26T03:18:06.582283421+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-26T03:29:29.875104098+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T03:29:54.036868203+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T03:30:06.590901634+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-26T03:30:39.032307302+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-26T03:31:13.483087594+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-26T03:31:52.821345964+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-26T03:39:32.405887844+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T03:39:40.38732186+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T03:39:50.206433276+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T03:40:06.597939464+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-26T03:40:37.961543696+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"context deadline exceeded\",\"path\":[\"project\",\"run\"]}],\"data\":{\"project\":{\"run\":null}}}"}
+{"time":"2025-03-26T04:01:56.042114816+08:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/x-wang-tsinghua/classification_cifar10_rgb/mjpfptus/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-03-26T04:02:06.610814392+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-26T04:19:14.30326183+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-26T04:19:14.304033208+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-26T04:19:15.305510927+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.363730089,"progress":"237B/237B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.363717118,"progress":"293B/293B"},{"desc":"uploading config.yaml","runtime_seconds":0.039429887,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-26T04:19:15.699233597+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-26T04:19:16.267784901+08:00","level":"INFO","msg":"stream: closing","id":"mjpfptus"}
+{"time":"2025-03-26T04:19:16.267812319+08:00","level":"INFO","msg":"handler: closed","stream_id":"mjpfptus"}
+{"time":"2025-03-26T04:19:16.267842189+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mjpfptus"}
+{"time":"2025-03-26T04:19:16.267885678+08:00","level":"INFO","msg":"sender: closed","stream_id":"mjpfptus"}
+{"time":"2025-03-26T04:19:16.267938032+08:00","level":"INFO","msg":"stream: closed","id":"mjpfptus"}
